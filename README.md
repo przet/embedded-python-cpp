@@ -4,3 +4,7 @@ A use case of embedding python into C++ applications/library has come up at work
 
 Here will be the protoype work before it is integrated into the system used at work.
 
+## Useful Resources
+*[Python/C API Reference Manual](https://docs.python.org/2/c-api/index.html)
+*[Embedding Python in Another Application](https://docs.python.org/2/extending/embedding.html)
+
